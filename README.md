@@ -16,8 +16,8 @@ O objetivo do jogo desenvolvido para este trabalho é incentivar estudantes a pr
 
 ### 📄 Documentação
 
-- `Apostila de Utilização do Game Matemático.pdf` – Relatório final do projeto.
-- `Projeto_Extensao_Equacionis_Battle_CC1N_Grupo1.pdf` – Material utilizado na apresentação.
+- [`Apostila de Utilização do Game Matemático.pdf`](https://github.com/VanniUser09/fund1-game/blob/main/Apostila%20de%20Utiliza%C3%A7%C3%A3o%20do%20Game%20Matem%C3%A1tico.pdf) – Relatório final do projeto.
+- [`Projeto_Extensao_Equacionis_Battle_CC1N_Grupo1.pdf`](https://github.com/VanniUser09/fund1-game/blob/main/Projeto_Extensao_Equacionis_Battle_CC1N_Grupo1%20(1).pdf) – Material utilizado na apresentação.
 
 ### 🎮 Jogo
 
@@ -34,7 +34,7 @@ O objetivo do jogo desenvolvido para este trabalho é incentivar estudantes a pr
 
 # 🎥 Vídeos do Projeto
 
-- Demonstração do jogo:  
+- Vídeo Aula do jogo:  https://youtu.be/-ARLoXptB_s
 
 
 
