@@ -2,7 +2,7 @@
 
 Este repositório reúne as entregas referentes ao Projeto de Extensão da disciplina de **Fundamentos para Tecnologia da Computação**, que teve como objetivo o desenvolvimento de um **game educativo** voltado ao ensino de matemática.
 
----
+
 
 # 📌 Objetivo do Projeto
 
@@ -10,7 +10,7 @@ O projeto se baseia na possibilidade de utilizar a tecnologia como uma ferrament
 
 O objetivo do jogo desenvolvido para este trabalho é incentivar estudantes a praticarem **equações de primeiro e segundo grau** por meio de desafios matemáticos. A proposta consiste em atribuir uma meta ao jogador: **resolver corretamente os problemas matemáticos para derrotar seus inimigos e avançar no jogo**.
 
----
+
 
 # 📂 Estrutura Final do Repositório
 
@@ -23,27 +23,27 @@ O objetivo do jogo desenvolvido para este trabalho é incentivar estudantes a pr
 
 - https://vanniuser09.github.io/fund1-game/
 
----
+
 
 # 🛠️ Tecnologias Utilizadas
 
 - Python
 - Batchfile
 
----
+
 
 # 🎥 Vídeos do Projeto
 
 - Demonstração do jogo:  
 
 
----
+
 
 # 📝 Observação
 
 Este trabalho foi desenvolvido no contexto de uma atividade acadêmica para um **Projeto de Extensão**, vinculado à disciplina de **Fundamentos para Tecnologia da Computação**, apenas para fins acadêmicos e educacionais.
 
----
+
 
 # 👨‍💻 Autores
 
